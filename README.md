@@ -235,8 +235,5 @@ Fortidiff tracks 20+ vulnerability attributes including:
 - **Memory**: Loads entire files into memory (suitable for typical FVDL sizes)
 - **Encoding**: UTF-8 encoding for all output files
 
-
-
-## Support
-
-Neko Ferrara 
+## Support 
+Radoiz
